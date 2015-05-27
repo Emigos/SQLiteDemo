@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Haryana</string>
+	<string>AP</string>
+	<string>UP</string>
+	<string>MP</string>
+	<dict>
+		<key>APCM</key>
+		<string>Chandra Babu Naidu</string>
+		<key>TSCM</key>
+		<string>KCR</string>
+		<key>UPCM</key>
+		<string>AY</string>
+	</dict>
+</array>
+</plist>
